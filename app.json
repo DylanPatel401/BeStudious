@@ -1,0 +1,43 @@
+{
+  "expo": {
+    "name": "BeStudious",
+    "slug": "BeStudious",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.dylanpatel401.BeStudious"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/logo.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dylanpatel401.BeStudious"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/cb7ec6f7-9906-44b6-95e5-f290dc84a1cf"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cb7ec6f7-9906-44b6-95e5-f290dc84a1cf"
+      }
+    }
+  }
+}
