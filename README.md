@@ -20,7 +20,7 @@ Get Expo go mobile app<br>
 Scan the QR:
 <br><br>
 ## QR  <br>
-![QR](QR.png)
+![QR](eas-update.svg)
 
 # User Tutorial
 
